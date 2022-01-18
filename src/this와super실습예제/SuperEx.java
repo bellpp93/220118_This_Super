@@ -54,7 +54,5 @@ public class SuperEx {
 		System.out.println("Second man info => ");
 		man2.tellyourName();
 		man2.tellYourInfo();
-		
 	}
-
 }
